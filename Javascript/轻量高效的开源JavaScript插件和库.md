@@ -63,7 +63,7 @@
 
 - [MediumEditor](https://github.com/yabwe/medium-editor) - 仿Medium.com的所见即所得在线编辑器工具栏。[demo](https://yabwe.github.io/medium-editor/)
 - [Substance](https://github.com/yabwe/medium-editor) - 是一个基于Web的内容自定义编辑器。[demo](http://substance.io/examples/)
-- [flatpickr](https://github.com/chmln/flatpickr) - 是一个轻量级的代码高亮库，适用于任何编程语言。[demo](https://chmln.github.io/flatpickr)
+- [rainbows](https://github.com/ccampbell/rainbow) - 是一个轻量级的代码高亮库(2.5kb)。[demo](https://craig.is/making/rainbows)
 - [pen](https://github.com/sofish/pen) - 是一个Markdown编辑器工具。[demo](http://sofish.github.io/pen)
 - [aceAce](https://github.com/ajaxorg/ace)（Ajax.org Cloud9 Editor）。[demo](https://ace.c9.io/)
 - [CodeMirror](https://github.com/codemirror/CodeMirror)浏览器端的代码编辑器。[demo](http://codemirror.net/)
@@ -134,6 +134,7 @@
 - [Mojs](https://github.com/legomushroom/mojs) - 一个拥有极简的声明式 API ，能够轻松掌控运动轨迹，为运动图形而生的工具库。[demo](http://mojs.io/)
 - [React FLIP Move](https://github.com/joshwcomeau/react-flip-move) - 一个翻转移动的库，旨在解决当列表的顺序发生变化时，项目列表动画化的问题。[demo](http://joshwcomeau.github.io/react-flip-move/examples/#/shuffle?_k=og3e8m)
 - [tween.js](https://github.com/tweenjs/tween.js) - 是一个JS 平滑动画库。[demo](http://tweenjs.github.io/tween.js/examples/12_graphs_custom_functions.html)
+- [Typed.js](https://github.com/mattboldt/typed.js) - 是一个JS 打字动画库。[demo](https://mattboldt.com/typed.js/)
 - [vivus](https://github.com/maxwellito/vivus) - JavaScript库，使SVG绘制动画。[demo](http://maxwellito.github.io/vivus/)
 - [Choreographer-js](https://github.com/christinecha/choreographer-js) - 是一个用于处理复杂动画的简单库。[demo](https://christinecha.github.io/choreographer-js/)
 - [minirefresh](https://github.com/minirefresh/minirefresh) - 优雅的H5下拉刷新。零依赖。[demo](https://minirefresh.github.io/minirefresh-doc/minirefresh-doc/guid/guid_effect.html)
